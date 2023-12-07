@@ -1,0 +1,7 @@
+C:\Users\VERA\source\repos\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\EstruturaDeRepeticao.exe.config
+C:\Users\VERA\source\repos\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\EstruturaDeRepeticao.exe
+C:\Users\VERA\source\repos\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\EstruturaDeRepeticao.pdb
+C:\Users\VERA\source\repos\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\VERA\source\repos\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\VERA\source\repos\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.exe
+C:\Users\VERA\source\repos\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\EstruturaDeRepeticao.pdb

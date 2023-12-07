@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EstruturaDeRepeticao
+{
+    public class Exercicio_09
+    {
+        public void ExecutarExercicio_09()
+        {
+            //O IMC – Índice de Massa Corporal é um critério da Organização Mundial de
+            // Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta.
+            //A fórmula é: IMC = peso / (altura)2
+            //Elabore um algoritmo que leia o peso e a altura de um adulto e mostre sua
+            //condição de acordo com a tabela abaixo.
+
+            Console.Write("Digite seu peso em kg: ");
+            double peso = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Digite sua altura em metros: ");
+            double altura = Convert.ToDouble(Console.ReadLine());
+
+            double imc = peso / Math.Pow(altura, 2);
+
+            Console.WriteLine("Seu IMC é: " + imc);
+
+            if (imc < 18.5)
+            {
+                Console.WriteLine("Você está abaixo do peso.");
+            }
+            else if (imc >= 18.5 && imc < 24.9)
+            {
+                Console.WriteLine("Você está com o peso normal.");
+            }
+            else if (imc >= 25 && imc < 29.9)
+            {
+                Console.WriteLine("Você está acima do peso.");
+            }
+            else
+            {
+                Console.WriteLine("Você está obeso.");
+                Console.ReadKey();
+            }
+
+        }
+    }
+    
+    
+}
